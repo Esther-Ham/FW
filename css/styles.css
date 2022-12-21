@@ -61,8 +61,8 @@ div {
 
 .bottom-cloud {
     position: absolute;
-    left: 32%;
-    top: 360px;
+    left: 30%;
+    top: 350px;
 }
 
 .CozyTown {
@@ -78,7 +78,7 @@ body {
 }
 
 .profile-picture {
-    width: 15%;
+    width: 20%;
 }
 
 .top-container {
